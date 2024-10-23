@@ -38,4 +38,8 @@
 
 </div>
 
+![snake gif](https://github.com/natybastosp/natybastosp/blob/output/github-snake.svg)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
