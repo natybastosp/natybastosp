@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Front-End Developer <br>🌱 I’m currently learning PHP, Python, UX/UI, React<br>⚡ Fun fact I love Star Wars
+🔭 I’m currently working on Front-End Developer <br>🌱 I’m currently learnin Python, UX/UI, React<br>⚡ Fun fact I love Star Wars
 
 ## 🌐 Socials:
 
